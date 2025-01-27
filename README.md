@@ -1,1 +1,1 @@
-# Real-Time-Emotion-Recognition-Through-Live-Camera-Feed-Using-CNN
+# CNN-Model-For-Pneumonia-Detection-From-X-ray-Images
